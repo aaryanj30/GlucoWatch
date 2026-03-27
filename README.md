@@ -1,10 +1,10 @@
 # GlucoWatch — CGM Real-World Evidence Analytics Pipeline
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare%20Analytics-0C6B3C?style=flat-square)
 ![RWE](https://img.shields.io/badge/Type-Real--World%20Evidence-8A2BE2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 # An end-to-end clinical analytics pipeline for CGM-based diabetes cohort analysis, predictive modelling, and automated ML drift monitoring — grounded in published RWE literature.
 ## About
